@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6760,
-    "timeDay": 6760,
-    "timeWeek": 6760,
-    "timeMonth": 6760,
-    "timeYear": 6760,
+    "time": 6216,
+    "timeDay": 6216,
+    "timeWeek": 6216,
+    "timeMonth": 6216,
+    "timeYear": 6216,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1889,
-    "timeDay": 1889,
-    "timeWeek": 1889,
-    "timeMonth": 1889,
-    "timeYear": 1889,
+    "time": 2169,
+    "timeDay": 2169,
+    "timeWeek": 2169,
+    "timeMonth": 2169,
+    "timeYear": 2169,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.mnu.edu.mv.ico",
     "slug": "self-service-mnu",
     "status": "down",
-    "uptime": "14.48%",
-    "uptimeDay": "14.48%",
-    "uptimeWeek": "14.48%",
-    "uptimeMonth": "14.48%",
-    "uptimeYear": "14.48%",
-    "time": 6662,
-    "timeDay": 6662,
-    "timeWeek": 6662,
-    "timeMonth": 6662,
-    "timeYear": 6662,
+    "uptime": "2.25%",
+    "uptimeDay": "2.25%",
+    "uptimeWeek": "2.25%",
+    "uptimeMonth": "2.25%",
+    "uptimeYear": "2.25%",
+    "time": 6669,
+    "timeDay": 6669,
+    "timeWeek": 6669,
+    "timeMonth": 6669,
+    "timeYear": 6669,
     "dailyMinutesDown": {
-      "2025-07-29": 1
+      "2025-07-29": 6
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/exam.mnu.edu.mv.ico",
     "slug": "exams-mnu",
     "status": "down",
-    "uptime": "66.76%",
-    "uptimeDay": "66.76%",
-    "uptimeWeek": "66.76%",
-    "uptimeMonth": "66.76%",
-    "uptimeYear": "66.76%",
+    "uptime": "8.04%",
+    "uptimeDay": "8.04%",
+    "uptimeWeek": "8.04%",
+    "uptimeMonth": "8.04%",
+    "uptimeYear": "8.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 6
     }
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6281,
-    "timeDay": 6281,
-    "timeWeek": 6281,
-    "timeMonth": 6281,
-    "timeYear": 6281,
+    "time": 4327,
+    "timeDay": 4327,
+    "timeWeek": 4327,
+    "timeMonth": 4327,
+    "timeYear": 4327,
     "dailyMinutesDown": {}
   }
 ]
