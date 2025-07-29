@@ -1,7 +1,7 @@
-url: https://selfservice.mnu.edu.mv
-status: down
-code: 403
-responseTime: 6675
-lastUpdated: 2025-07-29T07:38:50.436Z
+url: https://selfservice.mnu.edu.mv/Default
+status: up
+code: 200
+responseTime: 1640
+lastUpdated: 2025-07-29T08:18:04.963Z
 startTime: 2025-07-29T07:33:06.339Z
 generator: Upptime <https://github.com/upptime/upptime>
