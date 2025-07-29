@@ -5,14 +5,32 @@ repo: mnu-upptime # The name of this repository
 sites:
   - name: MNU
     url: https://mnu.edu.mv
-  - name: Moodle - MNU
+  - name: Moodle - Latest Term
     url: https://moodle.mnu.edu.mv
-  - name: SelfService - MNU
+  - name: SelfService
     url: https://selfservice.mnu.edu.mv/Default
-  - name: Exams - MNU
+  - name: Exam Portal
     url: https://exam.mnu.edu.mv
-  - name: MyMNU - MNU Online Forms
+  - name: MyMNU Portal - Existing Students Online Forms
     url: https://my.mnu.edu.mv
+  - name: Courses
+    url: https://courses.mnu.edu.mv
+  - name: Application Portal - New Students Registration
+    url: https://portal.mnu.edu.mv
+  - name: Helpdesk
+    url: https://helpdesk.mnu.edu.mv
+  - name: Library OPAC
+    url: http://202.1.196.72:8080/sahara/opac/search/reset.do?SAMLResponse=&clientAlias=&time=&digest=&corporationAlias=mche
+  - name: Saruna
+    url: saruna.mnu.edu.mv
+  - name: Moodle (24t2)
+    url: moodle24t2.mnu.edu.mv
+  - name: Moodle (24t1)
+    url: moodle24t2.mnu.edu.mv
+  - name: Moodle (23t2)
+    url: moodle24t2.mnu.edu.mv
+  - name: Moodle (23t1)
+    url: moodle24t2.mnu.edu.mv
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
