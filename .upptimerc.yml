@@ -26,11 +26,11 @@ sites:
   - name: Moodle (24t2)
     url: https://moodle24t2.mnu.edu.mv
   - name: Moodle (24t1)
-    url: https://moodle24t2.mnu.edu.mv
+    url: https://moodle24t1.mnu.edu.mv
   - name: Moodle (23t2)
-    url: https://moodle24t2.mnu.edu.mv
+    url: https://moodle23t2.mnu.edu.mv
   - name: Moodle (23t1)
-    url: https://moodle24t2.mnu.edu.mv
+    url: https://moodle23t1.mnu.edu.mv
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
