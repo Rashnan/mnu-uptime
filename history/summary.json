@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5355,
-    "timeDay": 5355,
-    "timeWeek": 5355,
-    "timeMonth": 5355,
-    "timeYear": 5355,
+    "time": 5300,
+    "timeDay": 5300,
+    "timeWeek": 5300,
+    "timeMonth": 5300,
+    "timeYear": 5300,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1836,
-    "timeDay": 1836,
-    "timeWeek": 1836,
-    "timeMonth": 1836,
-    "timeYear": 1836,
+    "time": 1835,
+    "timeDay": 1835,
+    "timeWeek": 1835,
+    "timeMonth": 1835,
+    "timeYear": 1835,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1622,
-    "timeDay": 1622,
-    "timeWeek": 1622,
-    "timeMonth": 1622,
-    "timeYear": 1622,
+    "time": 2240,
+    "timeDay": 2240,
+    "timeWeek": 2240,
+    "timeMonth": 2240,
+    "timeYear": 2240,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/exam.mnu.edu.mv.ico",
     "slug": "exam-portal",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "72.15%",
+    "uptimeDay": "72.15%",
+    "uptimeWeek": "72.15%",
+    "uptimeMonth": "72.15%",
+    "uptimeYear": "72.15%",
     "time": 5465,
     "timeDay": 5465,
     "timeWeek": 5465,
     "timeMonth": 5465,
     "timeYear": 5465,
     "dailyMinutesDown": {
-      "2025-07-29": 1
+      "2025-07-30": 121,
+      "2025-07-29": 155
     }
   },
   {
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3772,
-    "timeDay": 3772,
-    "timeWeek": 3772,
-    "timeMonth": 3772,
-    "timeYear": 3772,
+    "time": 3498,
+    "timeDay": 3498,
+    "timeWeek": 3498,
+    "timeMonth": 3498,
+    "timeYear": 3498,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2940,
-    "timeDay": 2940,
-    "timeWeek": 2940,
-    "timeMonth": 2940,
-    "timeYear": 2940,
+    "time": 3396,
+    "timeDay": 3396,
+    "timeWeek": 3396,
+    "timeMonth": 3396,
+    "timeYear": 3396,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3058,
-    "timeDay": 3058,
-    "timeWeek": 3058,
-    "timeMonth": 3058,
-    "timeYear": 3058,
+    "time": 3362,
+    "timeDay": 3362,
+    "timeWeek": 3362,
+    "timeMonth": 3362,
+    "timeYear": 3362,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2745,
-    "timeDay": 2745,
-    "timeWeek": 2745,
-    "timeMonth": 2745,
-    "timeYear": 2745,
+    "time": 2505,
+    "timeDay": 2505,
+    "timeWeek": 2505,
+    "timeMonth": 2505,
+    "timeYear": 2505,
     "dailyMinutesDown": {}
   },
   {
@@ -156,11 +157,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1293,
-    "timeDay": 1293,
-    "timeWeek": 1293,
-    "timeMonth": 1293,
-    "timeYear": 1293,
+    "time": 1295,
+    "timeDay": 1295,
+    "timeWeek": 1295,
+    "timeMonth": 1295,
+    "timeYear": 1295,
     "dailyMinutesDown": {}
   },
   {
@@ -180,7 +181,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 715
+      "2025-07-30": 121,
+      "2025-07-29": 869
     }
   },
   {
@@ -194,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2800,
-    "timeDay": 2800,
-    "timeWeek": 2800,
-    "timeMonth": 2800,
-    "timeYear": 2800,
+    "time": 3384,
+    "timeDay": 3384,
+    "timeWeek": 3384,
+    "timeMonth": 3384,
+    "timeYear": 3384,
     "dailyMinutesDown": {}
   },
   {
@@ -207,18 +209,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/moodle24t1.mnu.edu.mv.ico",
     "slug": "moodle-24t1",
     "status": "down",
-    "uptime": "3.39%",
-    "uptimeDay": "3.39%",
-    "uptimeWeek": "3.39%",
-    "uptimeMonth": "3.39%",
-    "uptimeYear": "3.39%",
+    "uptime": "2.45%",
+    "uptimeDay": "2.45%",
+    "uptimeWeek": "2.45%",
+    "uptimeMonth": "2.45%",
+    "uptimeYear": "2.45%",
     "time": 879,
     "timeDay": 879,
     "timeWeek": 879,
     "timeMonth": 879,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2025-07-29": 690
+      "2025-07-30": 121,
+      "2025-07-29": 845
     }
   },
   {
@@ -232,11 +235,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1152,
-    "timeDay": 1152,
-    "timeWeek": 1152,
-    "timeMonth": 1152,
-    "timeYear": 1152,
+    "time": 2049,
+    "timeDay": 2049,
+    "timeWeek": 2049,
+    "timeMonth": 2049,
+    "timeYear": 2049,
     "dailyMinutesDown": {}
   },
   {
@@ -250,11 +253,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2782,
-    "timeDay": 2782,
-    "timeWeek": 2782,
-    "timeMonth": 2782,
-    "timeYear": 2782,
+    "time": 2689,
+    "timeDay": 2689,
+    "timeWeek": 2689,
+    "timeMonth": 2689,
+    "timeYear": 2689,
     "dailyMinutesDown": {}
   }
 ]
