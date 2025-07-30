@@ -38,8 +38,8 @@ status-website:
   baseUrl: /mnu-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: MNU Uptime Tracker
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: Tracking the uptime of The Maldives National University (MNU) website.
+  introMessage: This status page tracks real-time data of all subdomains under MNU. For any incidents, check the Github issues to see more information.
   navbar:
     - title: Status
       href: /$REPO
