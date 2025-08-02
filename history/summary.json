@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mnu.edu.mv.ico",
     "slug": "mnu",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 5228,
     "timeDay": 5374,
     "timeWeek": 5228,
     "timeMonth": 5228,
     "timeYear": 5228,
-    "dailyMinutesDown": {
-      "2025-08-02": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Moodle - Latest Term",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/moodle.mnu.edu.mv.ico",
     "slug": "moodle-latest-term",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1872,
     "timeDay": 2197,
     "timeWeek": 1872,
     "timeMonth": 1872,
     "timeYear": 1872,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SelfService",
@@ -45,38 +41,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.mnu.edu.mv.ico",
     "slug": "self-service",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2253,
     "timeDay": 1969,
     "timeWeek": 2253,
     "timeMonth": 2253,
     "timeYear": 2253,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Exam Portal",
     "url": "https://exam.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/exam.mnu.edu.mv.ico",
     "slug": "exam-portal",
-    "status": "down",
-    "uptime": "92.81%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "92.81%",
-    "uptimeMonth": "92.81%",
-    "uptimeYear": "92.81%",
-    "time": 4054,
-    "timeDay": 2172,
-    "timeWeek": 4054,
-    "timeMonth": 4054,
-    "timeYear": 4054,
+    "status": "up",
+    "uptime": "92.53%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "92.53%",
+    "uptimeMonth": "92.53%",
+    "uptimeYear": "92.53%",
+    "time": 4318,
+    "timeDay": 4699,
+    "timeWeek": 4318,
+    "timeMonth": 4318,
+    "timeYear": 4318,
     "dailyMinutesDown": {
-      "2025-08-02": 11,
+      "2025-08-02": 29,
       "2025-07-30": 255,
       "2025-07-29": 155
     }
@@ -87,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.mnu.edu.mv.ico",
     "slug": "my-mnu-portal-existing-students-online-forms",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.52%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 3400,
     "timeDay": 2172,
     "timeWeek": 3400,
     "timeMonth": 3400,
     "timeYear": 3400,
     "dailyMinutesDown": {
-      "2025-08-02": 10
+      "2025-08-02": 28
     }
   },
   {
@@ -107,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses.mnu.edu.mv.ico",
     "slug": "courses",
     "status": "down",
-    "uptime": "93.45%",
-    "uptimeDay": "73.42%",
-    "uptimeWeek": "93.45%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "93.45%",
+    "uptime": "93.16%",
+    "uptimeDay": "72.16%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "93.16%",
+    "uptimeYear": "93.16%",
     "time": 2873,
     "timeDay": 2157,
     "timeWeek": 2873,
     "timeMonth": 2873,
     "timeYear": 2873,
     "dailyMinutesDown": {
-      "2025-08-02": 169,
+      "2025-08-02": 187,
       "2025-08-01": 214
     }
   },
@@ -128,19 +122,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.mnu.edu.mv.ico",
     "slug": "application-portal-new-students-registration",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3333,
     "timeDay": 3376,
     "timeWeek": 3333,
     "timeMonth": 3333,
     "timeYear": 3333,
-    "dailyMinutesDown": {
-      "2025-08-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Helpdesk",
@@ -148,19 +140,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.mnu.edu.mv.ico",
     "slug": "helpdesk",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2229,
     "timeDay": 3312,
     "timeWeek": 2229,
     "timeMonth": 2229,
     "timeYear": 2229,
-    "dailyMinutesDown": {
-      "2025-08-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Library OPAC",
@@ -168,19 +158,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/202.1.196.72.ico",
     "slug": "library-opac",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2433,
     "timeDay": 7971,
     "timeWeek": 2433,
     "timeMonth": 2433,
     "timeYear": 2433,
-    "dailyMinutesDown": {
-      "2025-08-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Saruna",
@@ -188,18 +176,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
     "status": "down",
-    "uptime": "75.39%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "75.39%",
-    "uptimeMonth": "75.39%",
-    "uptimeYear": "75.39%",
+    "uptime": "75.15%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "75.15%",
+    "uptimeMonth": "75.15%",
+    "uptimeYear": "75.15%",
     "time": 6931,
     "timeDay": 5139,
     "timeWeek": 6931,
     "timeMonth": 6931,
     "timeYear": 6931,
     "dailyMinutesDown": {
-      "2025-08-02": 8,
+      "2025-08-02": 26,
       "2025-07-30": 562,
       "2025-07-29": 869
     }
