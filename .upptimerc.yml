@@ -37,7 +37,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /mnu-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  theme: ocean
+  theme: dark
   name: MNU Uptime Tracker
   introTitle: Tracking the uptime of The Maldives National University (MNU) website.
   introMessage: This status page tracks real-time data of all subdomains under MNU. For any incidents, check the Github issues to see more information. Made by [Rashnan](https://github.com/Rashnan)
