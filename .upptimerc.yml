@@ -40,10 +40,7 @@ status-website:
   theme: dark
   name: MNU Uptime Tracker
   introTitle: Tracking the uptime of The Maldives National University (MNU) website.
-  introMessage:
-    This status page tracks real-time data of all subdomains under MNU. For any incidents, check the Github issues to see more information.
-
-    Made By: [Rashnan](https://github.com/Rashnan)
+  introMessage: This status page tracks real-time data of all subdomains under MNU. For any incidents, check the Github issues to see more information. Made By: [Rashnan](https://github.com/Rashnan)
   navbar:
     - title: Status
       href: /$REPO
