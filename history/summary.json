@@ -137,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.mnu.edu.mv.ico",
     "slug": "my-mnu-portal-existing-students-online-forms",
     "status": "up",
-    "uptime": "97.11%",
+    "uptime": "97.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.46%",
-    "uptimeYear": "97.11%",
+    "uptimeYear": "97.12%",
     "time": 3215,
     "timeDay": 2297,
     "timeWeek": 2526,
@@ -287,12 +287,12 @@
     "url": "https://saruna.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "up",
-    "uptime": "84.00%",
-    "uptimeDay": "79.29%",
+    "status": "down",
+    "uptime": "84.04%",
+    "uptimeDay": "79.28%",
     "uptimeWeek": "68.86%",
     "uptimeMonth": "78.39%",
-    "uptimeYear": "84.00%",
+    "uptimeYear": "84.04%",
     "time": 7449,
     "timeDay": 14136,
     "timeWeek": 8959,
@@ -338,8 +338,7 @@
       "2025-08-10": 873,
       "2025-08-09": 1162,
       "2025-08-08": 117,
-      "2025-08-07": 30,
-      "2025-08-06": 24
+      "2025-08-07": 30
     }
   }
 ]
