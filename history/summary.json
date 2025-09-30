@@ -13,7 +13,7 @@
     "time": 4647,
     "timeDay": 5328,
     "timeWeek": 4526,
-    "timeMonth": 3815,
+    "timeMonth": 3788,
     "timeYear": 4647,
     "dailyMinutesDown": {
       "2025-09-10": 325,
@@ -42,7 +42,7 @@
     "time": 2247,
     "timeDay": 2128,
     "timeWeek": 2048,
-    "timeMonth": 2303,
+    "timeMonth": 2312,
     "timeYear": 2247,
     "dailyMinutesDown": {
       "2025-09-10": 324,
@@ -72,7 +72,7 @@
     "time": 2137,
     "timeDay": 1688,
     "timeWeek": 1646,
-    "timeMonth": 2182,
+    "timeMonth": 2193,
     "timeYear": 2137,
     "dailyMinutesDown": {
       "2025-09-10": 324,
@@ -93,11 +93,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/exam.mnu.edu.mv.ico",
     "slug": "exam-portal",
     "status": "up",
-    "uptime": "81.36%",
+    "uptime": "81.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "71.60%",
-    "uptimeYear": "81.36%",
+    "uptimeMonth": "71.77%",
+    "uptimeYear": "81.37%",
     "time": 3186,
     "timeDay": 2547,
     "timeWeek": 2527,
@@ -146,7 +146,7 @@
     "time": 3146,
     "timeDay": 2563,
     "timeWeek": 2579,
-    "timeMonth": 3291,
+    "timeMonth": 3314,
     "timeYear": 3146,
     "dailyMinutesDown": {
       "2025-09-10": 300,
@@ -209,7 +209,7 @@
     "time": 2444,
     "timeDay": 1475,
     "timeWeek": 2795,
-    "timeMonth": 2409,
+    "timeMonth": 2429,
     "timeYear": 2444,
     "dailyMinutesDown": {
       "2025-09-10": 299,
@@ -238,7 +238,7 @@
     "time": 1988,
     "timeDay": 1633,
     "timeWeek": 1418,
-    "timeMonth": 1844,
+    "timeMonth": 1854,
     "timeYear": 1988,
     "dailyMinutesDown": {
       "2025-09-10": 298,
@@ -262,7 +262,7 @@
     "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.26%",
+    "uptimeMonth": "96.28%",
     "uptimeYear": "97.54%",
     "time": 1800,
     "timeDay": 1423,
@@ -290,15 +290,15 @@
     "url": "https://saruna.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "up",
-    "uptime": "88.60%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "94.20%",
-    "uptimeMonth": "81.69%",
-    "uptimeYear": "88.60%",
+    "status": "down",
+    "uptime": "88.63%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "81.85%",
+    "uptimeYear": "88.63%",
     "time": 7168,
     "timeDay": 2972,
-    "timeWeek": 5281,
+    "timeWeek": 5326,
     "timeMonth": 6808,
     "timeYear": 7168,
     "dailyMinutesDown": {
@@ -338,8 +338,7 @@
       "2025-08-23": 87,
       "2025-08-22": 54,
       "2025-08-21": 92,
-      "2025-08-20": 53,
-      "2025-08-19": 17
+      "2025-08-20": 53
     }
   }
 ]
