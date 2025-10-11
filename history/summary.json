@@ -209,11 +209,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.mnu.edu.mv.ico",
     "slug": "application-portal-new-students-registration",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "98.36%",
+    "uptimeYear": "98.37%",
     "time": 2385,
     "timeDay": 0,
     "timeWeek": 1502,
@@ -301,12 +301,12 @@
     "url": "https://saruna.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "up",
-    "uptime": "94.58%",
-    "uptimeDay": "62.55%",
+    "status": "down",
+    "uptime": "94.60%",
+    "uptimeDay": "64.17%",
     "uptimeWeek": "84.65%",
-    "uptimeMonth": "86.86%",
-    "uptimeYear": "94.58%",
+    "uptimeMonth": "86.90%",
+    "uptimeYear": "94.60%",
     "time": 7398,
     "timeDay": 8399,
     "timeWeek": 8490,
@@ -339,8 +339,7 @@
       "2025-09-15": 44,
       "2025-09-14": 139,
       "2025-09-13": 52,
-      "2025-09-12": 81,
-      "2025-09-11": 20
+      "2025-09-12": 81
     }
   }
 ]
