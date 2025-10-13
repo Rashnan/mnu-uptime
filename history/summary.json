@@ -99,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/exam.mnu.edu.mv.ico",
     "slug": "exam-portal",
     "status": "up",
-    "uptime": "83.86%",
+    "uptime": "83.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.41%",
     "uptimeMonth": "97.97%",
-    "uptimeYear": "83.86%",
+    "uptimeYear": "83.87%",
     "time": 3118,
     "timeDay": 2399,
     "timeWeek": 2468,
@@ -309,14 +309,14 @@
     "url": "https://saruna.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "up",
-    "uptime": "96.54%",
-    "uptimeDay": "55.52%",
+    "status": "down",
+    "uptime": "96.57%",
+    "uptimeDay": "56.72%",
     "uptimeWeek": "71.77%",
-    "uptimeMonth": "91.33%",
-    "uptimeYear": "96.54%",
+    "uptimeMonth": "91.39%",
+    "uptimeYear": "96.57%",
     "time": 7712,
-    "timeDay": 11565,
+    "timeDay": 10842,
     "timeWeek": 9327,
     "timeMonth": 8154,
     "timeYear": 7712,
@@ -339,7 +339,7 @@
       "2025-09-26": 35,
       "2025-09-25": 123,
       "2025-09-24": 39,
-      "2025-09-23": 210
+      "2025-09-23": 182
     }
   }
 ]
