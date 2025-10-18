@@ -276,11 +276,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/202.1.196.72.ico",
     "slug": "library-opac",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "97.87%",
+    "uptimeYear": "97.88%",
     "time": 2126,
     "timeDay": 1451,
     "timeWeek": 1493,
@@ -309,12 +309,12 @@
     "url": "https://saruna.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "66.15%",
-    "uptimeWeek": "66.54%",
-    "uptimeMonth": "92.30%",
-    "uptimeYear": "97.12%",
+    "status": "down",
+    "uptime": "97.14%",
+    "uptimeDay": "66.84%",
+    "uptimeWeek": "66.76%",
+    "uptimeMonth": "92.35%",
+    "uptimeYear": "97.14%",
     "time": 8128,
     "timeDay": 8407,
     "timeWeek": 9951,
@@ -327,7 +327,7 @@
       "2025-10-15": 441,
       "2025-10-14": 419,
       "2025-10-13": 538,
-      "2025-10-12": 471
+      "2025-10-12": 449
     }
   }
 ]
