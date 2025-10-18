@@ -245,11 +245,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.mnu.edu.mv.ico",
     "slug": "helpdesk",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.32%",
     "time": 1939,
     "timeDay": 1488,
     "timeWeek": 1426,
@@ -309,12 +309,12 @@
     "url": "https://saruna.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "up",
-    "uptime": "97.10%",
-    "uptimeDay": "60.64%",
-    "uptimeWeek": "66.20%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "97.10%",
+    "status": "down",
+    "uptime": "97.16%",
+    "uptimeDay": "61.16%",
+    "uptimeWeek": "66.90%",
+    "uptimeMonth": "92.38%",
+    "uptimeYear": "97.16%",
     "time": 8156,
     "timeDay": 9548,
     "timeWeek": 10010,
@@ -327,7 +327,7 @@
       "2025-10-15": 441,
       "2025-10-14": 419,
       "2025-10-13": 538,
-      "2025-10-12": 355
+      "2025-10-12": 284
     }
   }
 ]
