@@ -342,12 +342,12 @@
     "url": "https://saruna.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "up",
-    "uptime": "98.00%",
-    "uptimeDay": "68.36%",
-    "uptimeWeek": "80.17%",
-    "uptimeMonth": "91.75%",
-    "uptimeYear": "98.00%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "68.63%",
+    "uptimeWeek": "80.16%",
+    "uptimeMonth": "91.91%",
+    "uptimeYear": "98.04%",
     "time": 7889,
     "timeDay": 3671,
     "timeWeek": 6136,
@@ -368,7 +368,7 @@
       "2025-11-20": 361,
       "2025-11-19": 34,
       "2025-11-17": 211,
-      "2025-11-16": 119
+      "2025-11-16": 53
     }
   },
   {
