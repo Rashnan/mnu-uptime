@@ -359,7 +359,7 @@
     "slug": "library-opac",
     "status": "up",
     "uptime": "98.38%",
-    "uptimeDay": "15.86%",
+    "uptimeDay": "25.48%",
     "uptimeWeek": "74.73%",
     "uptimeMonth": "94.19%",
     "uptimeYear": "98.38%",
@@ -395,12 +395,12 @@
     "url": "https://saruna.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "up",
-    "uptime": "91.45%",
-    "uptimeDay": "87.56%",
-    "uptimeWeek": "64.11%",
-    "uptimeMonth": "48.48%",
-    "uptimeYear": "91.45%",
+    "status": "down",
+    "uptime": "91.48%",
+    "uptimeDay": "87.53%",
+    "uptimeWeek": "64.43%",
+    "uptimeMonth": "48.72%",
+    "uptimeYear": "91.48%",
     "time": 7371,
     "timeDay": 3654,
     "timeWeek": 6561,
@@ -440,7 +440,7 @@
       "2026-01-30": 96,
       "2026-01-27": 410,
       "2026-01-26": 994,
-      "2026-01-25": 205
+      "2026-01-25": 129
     }
   },
   {
