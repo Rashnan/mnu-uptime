@@ -1,7 +1,7 @@
 url: https://saruna.mnu.edu.mv
-status: up
-code: 200
-responseTime: 3975
-lastUpdated: 2026-03-09T11:48:32.824Z
+status: down
+code: 500
+responseTime: 6825
+lastUpdated: 2026-03-09T21:52:20.775Z
 startTime: 2025-07-29T09:30:57.875Z
 generator: Upptime <https://github.com/upptime/upptime>
