@@ -418,7 +418,7 @@
     "timeMonth": 5375,
     "timeYear": 7241,
     "dailyMinutesDown": {
-      "2026-03-15": 1040,
+      "2026-03-15": 1041,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -494,18 +494,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/test-fail.mnu.edu.mv.ico",
     "slug": "test-fail",
     "status": "down",
-    "uptime": "15.45%",
-    "uptimeDay": "15.45%",
-    "uptimeWeek": "15.45%",
-    "uptimeMonth": "15.45%",
-    "uptimeYear": "15.45%",
+    "uptime": "8.85%",
+    "uptimeDay": "8.85%",
+    "uptimeWeek": "8.85%",
+    "uptimeMonth": "8.85%",
+    "uptimeYear": "8.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-15": 0
+      "2026-03-15": 1
     }
   }
 ]
