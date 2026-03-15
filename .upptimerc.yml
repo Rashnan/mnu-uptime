@@ -25,8 +25,6 @@ sites:
     url: https://saruna.mnu.edu.mv
   - name: Marathon
     url: https://marathon.mnu.edu.mv
-  - name: Test Fail
-    url: https://test-fail.mnu.edu.mv
   # - name: Moodle (24t2)
   #   url: https://moodle24t2.mnu.edu.mv
   # - name: Moodle (24t1)
