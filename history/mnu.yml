@@ -1,7 +1,7 @@
 url: https://mnu.edu.mv
-status: up
-code: 200
-responseTime: 3492
-lastUpdated: 2026-05-05T23:52:12.672Z
+status: down
+code: 500
+responseTime: 1290
+lastUpdated: 2026-05-06T01:13:40.027Z
 startTime: 2025-07-29T07:32:56.998Z
 generator: Upptime <https://github.com/upptime/upptime>
