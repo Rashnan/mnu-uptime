@@ -1,7 +1,7 @@
 url: http://202.1.196.72:8080/sahara/opac/search/reset.do?SAMLResponse=&clientAlias=&time=&digest=&corporationAlias=mche
 status: up
 code: 200
-responseTime: 1169
-lastUpdated: 2026-05-16T23:57:16.612Z
+responseTime: 1003
+lastUpdated: 2026-05-17T23:59:49.708Z
 startTime: 2025-07-29T09:30:56.175Z
 generator: Upptime <https://github.com/upptime/upptime>
