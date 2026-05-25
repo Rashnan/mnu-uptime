@@ -4,11 +4,11 @@
     "url": "https://mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/mnu.edu.mv.ico",
     "slug": "mnu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "93.92%",
-    "uptimeMonth": "97.83%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "99.09%",
     "time": 4443,
     "timeDay": 10944,
@@ -50,7 +50,7 @@
       "2026-05-20": 157,
       "2026-05-23": 187,
       "2026-05-24": 206,
-      "2026-05-25": 62
+      "2026-05-25": 72
     }
   },
   {
@@ -465,13 +465,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
     "status": "down",
-    "uptime": "88.71%",
-    "uptimeDay": "85.32%",
-    "uptimeWeek": "51.60%",
-    "uptimeMonth": "67.89%",
-    "uptimeYear": "88.71%",
+    "uptime": "88.69%",
+    "uptimeDay": "81.79%",
+    "uptimeWeek": "50.78%",
+    "uptimeMonth": "67.70%",
+    "uptimeYear": "88.69%",
     "time": 7571,
-    "timeDay": 49657,
+    "timeDay": 41960,
     "timeWeek": 21791,
     "timeMonth": 14340,
     "timeYear": 7571,
@@ -549,7 +549,7 @@
       "2026-05-22": 760,
       "2026-05-23": 1146,
       "2026-05-24": 835,
-      "2026-05-25": 179
+      "2026-05-25": 262
     }
   },
   {
