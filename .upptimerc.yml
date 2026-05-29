@@ -22,7 +22,7 @@ sites:
   - name: Library OPAC
     url: http://202.1.196.72:8080/sahara/opac/search/reset.do?SAMLResponse=&clientAlias=&time=&digest=&corporationAlias=mche
   - name: Saruna
-    url: https://saruna.mnu.edu.mv
+    url: https://saruna.mnu.edu.mv/home
   - name: Marathon
     url: https://marathon.mnu.edu.mv
   # - name: Moodle (24t2)
