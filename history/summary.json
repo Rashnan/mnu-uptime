@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mnu.edu.mv.ico",
     "slug": "mnu",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.06%",
+    "uptimeDay": "75.76%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.06%",
     "time": 4368,
-    "timeDay": 3403,
-    "timeWeek": 3368,
-    "timeMonth": 3502,
+    "timeDay": 0,
+    "timeWeek": 3380,
+    "timeMonth": 3354,
     "timeYear": 4368,
     "dailyMinutesDown": {
       "2025-08-04": 32,
@@ -53,7 +53,8 @@
       "2026-05-25": 131,
       "2026-06-05": 116,
       "2026-06-04": 11,
-      "2026-06-25": 39
+      "2026-06-26": 238,
+      "2026-06-25": 111
     }
   },
   {
@@ -62,15 +63,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/moodle.mnu.edu.mv.ico",
     "slug": "moodle-latest-term",
     "status": "down",
-    "uptime": "98.19%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "98.19%",
+    "uptime": "98.13%",
+    "uptimeDay": "76.10%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "98.13%",
     "time": 2565,
-    "timeDay": 3997,
-    "timeWeek": 3109,
-    "timeMonth": 3313,
+    "timeDay": 0,
+    "timeWeek": 3173,
+    "timeMonth": 3332,
     "timeYear": 2565,
     "dailyMinutesDown": {
       "2025-08-04": 31,
@@ -105,7 +106,8 @@
       "2026-04-23": 124,
       "2026-04-24": 106,
       "2026-05-23": 182,
-      "2026-06-25": 34
+      "2026-06-26": 239,
+      "2026-06-25": 106
     }
   },
   {
@@ -114,15 +116,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.mnu.edu.mv.ico",
     "slug": "self-service",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.36%",
+    "uptimeDay": "76.44%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.36%",
     "time": 2376,
-    "timeDay": 2610,
-    "timeWeek": 5179,
-    "timeMonth": 3565,
+    "timeDay": 0,
+    "timeWeek": 5005,
+    "timeMonth": 3613,
     "timeYear": 2376,
     "dailyMinutesDown": {
       "2025-08-04": 31,
@@ -147,7 +149,8 @@
       "2026-04-23": 53,
       "2026-04-24": 154,
       "2026-05-23": 103,
-      "2026-06-25": 30
+      "2026-06-26": 239,
+      "2026-06-25": 101
     }
   },
   {
@@ -156,15 +159,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/exam.mnu.edu.mv.ico",
     "slug": "exam-portal",
     "status": "down",
-    "uptime": "95.48%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "95.48%",
+    "uptime": "95.42%",
+    "uptimeDay": "76.77%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "95.42%",
     "time": 3397,
-    "timeDay": 6846,
-    "timeWeek": 4737,
-    "timeMonth": 4144,
+    "timeDay": 0,
+    "timeWeek": 5038,
+    "timeMonth": 4139,
     "timeYear": 3397,
     "dailyMinutesDown": {
       "2025-07-30": 255,
@@ -217,7 +220,8 @@
       "2026-05-23": 294,
       "2026-06-11": 375,
       "2026-06-14": 422,
-      "2026-06-25": 25
+      "2026-06-26": 239,
+      "2026-06-25": 96
     }
   },
   {
@@ -226,15 +230,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.mnu.edu.mv.ico",
     "slug": "my-mnu-portal-existing-students-online-forms",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.27%",
+    "uptimeDay": "77.11%",
+    "uptimeWeek": "96.73%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.27%",
     "time": 3174,
-    "timeDay": 3533,
-    "timeWeek": 4194,
-    "timeMonth": 4151,
+    "timeDay": 0,
+    "timeWeek": 4363,
+    "timeMonth": 4139,
     "timeYear": 3174,
     "dailyMinutesDown": {
       "2025-08-02": 129,
@@ -258,7 +262,8 @@
       "2026-04-23": 52,
       "2026-04-24": 105,
       "2026-05-23": 93,
-      "2026-06-25": 20
+      "2026-06-26": 239,
+      "2026-06-25": 91
     }
   },
   {
@@ -272,11 +277,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.21%",
-    "time": 2442,
-    "timeDay": 4918,
-    "timeWeek": 3246,
-    "timeMonth": 2846,
-    "timeYear": 2442,
+    "time": 2440,
+    "timeDay": 1635,
+    "timeWeek": 2654,
+    "timeMonth": 2848,
+    "timeYear": 2440,
     "dailyMinutesDown": {
       "2025-08-01": 214,
       "2025-08-02": 254,
@@ -343,15 +348,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.mnu.edu.mv.ico",
     "slug": "application-portal-new-students-registration",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.33%",
+    "uptimeDay": "77.44%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.33%",
     "time": 2136,
-    "timeDay": 1381,
-    "timeWeek": 1399,
-    "timeMonth": 1978,
+    "timeDay": 0,
+    "timeWeek": 1415,
+    "timeMonth": 2003,
     "timeYear": 2136,
     "dailyMinutesDown": {
       "2025-08-04": 30,
@@ -371,7 +376,8 @@
       "2026-04-23": 52,
       "2026-04-24": 105,
       "2026-05-23": 89,
-      "2026-06-25": 15
+      "2026-06-26": 239,
+      "2026-06-25": 86
     }
   },
   {
@@ -380,15 +386,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.mnu.edu.mv.ico",
     "slug": "helpdesk",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.42%",
+    "uptimeDay": "77.78%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.42%",
     "time": 2057,
-    "timeDay": 1343,
-    "timeWeek": 1903,
-    "timeMonth": 2624,
+    "timeDay": 0,
+    "timeWeek": 2019,
+    "timeMonth": 2600,
     "timeYear": 2057,
     "dailyMinutesDown": {
       "2025-08-04": 29,
@@ -410,7 +416,8 @@
       "2026-04-23": 51,
       "2026-04-24": 104,
       "2026-05-23": 84,
-      "2026-06-25": 10
+      "2026-06-26": 239,
+      "2026-06-25": 81
     }
   },
   {
@@ -419,15 +426,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/202.1.196.72.ico",
     "slug": "library-opac",
     "status": "down",
-    "uptime": "96.08%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "94.41%",
-    "uptimeYear": "96.08%",
+    "uptime": "96.02%",
+    "uptimeDay": "78.12%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "96.02%",
     "time": 1459,
-    "timeDay": 1108,
-    "timeWeek": 1081,
-    "timeMonth": 1102,
+    "timeDay": 0,
+    "timeWeek": 1092,
+    "timeMonth": 1073,
     "timeYear": 1459,
     "dailyMinutesDown": {
       "2025-08-04": 58,
@@ -472,7 +479,8 @@
       "2026-06-13": 582,
       "2026-06-12": 1440,
       "2026-06-11": 421,
-      "2026-06-25": 5
+      "2026-06-26": 239,
+      "2026-06-25": 76
     }
   },
   {
@@ -481,15 +489,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
     "status": "down",
-    "uptime": "86.83%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "57.48%",
-    "uptimeMonth": "54.53%",
-    "uptimeYear": "86.83%",
+    "uptime": "86.77%",
+    "uptimeDay": "78.45%",
+    "uptimeWeek": "57.25%",
+    "uptimeMonth": "54.19%",
+    "uptimeYear": "86.77%",
     "time": 7660,
-    "timeDay": 4117,
+    "timeDay": 0,
     "timeWeek": 11723,
-    "timeMonth": 11069,
+    "timeMonth": 11170,
     "timeYear": 7660,
     "dailyMinutesDown": {
       "2026-03-23": 607,
@@ -583,7 +591,8 @@
       "2026-06-21": 1013,
       "2026-06-23": 486,
       "2026-06-22": 810,
-      "2026-06-25": 0
+      "2026-06-26": 239,
+      "2026-06-25": 71
     }
   },
   {
@@ -597,11 +606,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 2806,
-    "timeDay": 2190,
-    "timeWeek": 2416,
-    "timeMonth": 2898,
-    "timeYear": 2806,
+    "time": 2805,
+    "timeDay": 2470,
+    "timeWeek": 2384,
+    "timeMonth": 2914,
+    "timeYear": 2805,
     "dailyMinutesDown": {
       "2025-10-22": 139,
       "2025-10-25": 147,
