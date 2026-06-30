@@ -159,10 +159,10 @@
     "url": "https://exam.mnu.edu.mv",
     "icon": "https://icons.duckduckgo.com/ip3/exam.mnu.edu.mv.ico",
     "slug": "exam-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "95.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.80%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "80.77%",
     "uptimeMonth": "93.76%",
     "uptimeYear": "95.15%",
     "time": 3420,
@@ -225,7 +225,8 @@
       "2026-06-25": 96,
       "2026-06-28": 432,
       "2026-06-27": 106,
-      "2026-06-29": 420
+      "2026-06-29": 420,
+      "2026-06-30": 2
     }
   },
   {
@@ -492,17 +493,17 @@
     "url": "https://saruna.mnu.edu.mv/",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "down",
-    "uptime": "90.50%",
-    "uptimeDay": "92.08%",
-    "uptimeWeek": "83.43%",
-    "uptimeMonth": "63.14%",
-    "uptimeYear": "90.50%",
-    "time": 7708,
-    "timeDay": 5569,
-    "timeWeek": 15309,
-    "timeMonth": 11130,
-    "timeYear": 7708,
+    "status": "up",
+    "uptime": "90.49%",
+    "uptimeDay": "87.08%",
+    "uptimeWeek": "82.72%",
+    "uptimeMonth": "62.97%",
+    "uptimeYear": "90.49%",
+    "time": 7730,
+    "timeDay": 17026,
+    "timeWeek": 17772,
+    "timeMonth": 11888,
+    "timeYear": 7730,
     "dailyMinutesDown": {
       "2026-03-28": 37,
       "2026-03-30": 317,
@@ -582,7 +583,7 @@
       "2026-06-26": 917,
       "2026-06-25": 71,
       "2026-06-27": 567,
-      "2026-06-30": 114
+      "2026-06-30": 186
     }
   },
   {
