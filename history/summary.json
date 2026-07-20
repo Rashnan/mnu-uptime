@@ -13,7 +13,7 @@
     "time": 4312,
     "timeDay": 3635,
     "timeWeek": 3575,
-    "timeMonth": 3488,
+    "timeMonth": 3483,
     "timeYear": 4312,
     "dailyMinutesDown": {
       "2025-08-04": 32,
@@ -67,13 +67,13 @@
     "status": "up",
     "uptime": "97.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.27%",
+    "uptimeWeek": "76.34%",
     "uptimeMonth": "87.53%",
     "uptimeYear": "97.25%",
     "time": 2604,
     "timeDay": 2850,
     "timeWeek": 3410,
-    "timeMonth": 3172,
+    "timeMonth": 3169,
     "timeYear": 2604,
     "dailyMinutesDown": {
       "2025-08-04": 31,
@@ -130,7 +130,7 @@
     "time": 2434,
     "timeDay": 5324,
     "timeWeek": 3310,
-    "timeMonth": 3632,
+    "timeMonth": 3535,
     "timeYear": 2434,
     "dailyMinutesDown": {
       "2025-08-04": 31,
@@ -173,7 +173,7 @@
     "time": 3495,
     "timeDay": 3424,
     "timeWeek": 4485,
-    "timeMonth": 4925,
+    "timeMonth": 4979,
     "timeYear": 3495,
     "dailyMinutesDown": {
       "2025-07-30": 255,
@@ -251,7 +251,7 @@
     "time": 3254,
     "timeDay": 2813,
     "timeWeek": 4112,
-    "timeMonth": 4437,
+    "timeMonth": 4478,
     "timeYear": 3254,
     "dailyMinutesDown": {
       "2025-08-02": 129,
@@ -293,7 +293,7 @@
     "time": 2441,
     "timeDay": 1459,
     "timeWeek": 2596,
-    "timeMonth": 2501,
+    "timeMonth": 2406,
     "timeYear": 2441,
     "dailyMinutesDown": {
       "2025-08-01": 214,
@@ -369,7 +369,7 @@
     "time": 2162,
     "timeDay": 1299,
     "timeWeek": 3204,
-    "timeMonth": 2326,
+    "timeMonth": 2359,
     "timeYear": 2162,
     "dailyMinutesDown": {
       "2025-08-04": 30,
@@ -407,7 +407,7 @@
     "time": 2075,
     "timeDay": 1316,
     "timeWeek": 3364,
-    "timeMonth": 2283,
+    "timeMonth": 2199,
     "timeYear": 2075,
     "dailyMinutesDown": {
       "2025-08-04": 29,
@@ -447,7 +447,7 @@
     "time": 1437,
     "timeDay": 1115,
     "timeWeek": 1131,
-    "timeMonth": 1091,
+    "timeMonth": 1090,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2025-08-04": 58,
@@ -501,17 +501,17 @@
     "url": "https://saruna.mnu.edu.mv/",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "down",
+    "status": "up",
     "uptime": "90.44%",
-    "uptimeDay": "57.52%",
-    "uptimeWeek": "86.19%",
+    "uptimeDay": "57.00%",
+    "uptimeWeek": "86.11%",
     "uptimeMonth": "73.93%",
     "uptimeYear": "90.44%",
-    "time": 7817,
-    "timeDay": 30281,
-    "timeWeek": 17922,
-    "timeMonth": 13477,
-    "timeYear": 7817,
+    "time": 7845,
+    "timeDay": 35585,
+    "timeWeek": 20020,
+    "timeMonth": 14286,
+    "timeYear": 7845,
     "dailyMinutesDown": {
       "2026-04-12": 328,
       "2026-04-13": 1021,
@@ -588,7 +588,7 @@
       "2026-07-17": 303,
       "2026-07-18": 401,
       "2026-07-19": 610,
-      "2026-07-20": 1
+      "2026-07-20": 8
     }
   },
   {
