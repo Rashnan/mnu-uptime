@@ -503,17 +503,17 @@
     "url": "https://saruna.mnu.edu.mv/",
     "icon": "https://icons.duckduckgo.com/ip3/saruna.mnu.edu.mv.ico",
     "slug": "saruna",
-    "status": "down",
-    "uptime": "90.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "71.02%",
+    "status": "up",
+    "uptime": "90.90%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "70.71%",
     "uptimeMonth": "76.13%",
-    "uptimeYear": "90.91%",
-    "time": 8071,
-    "timeDay": 0,
-    "timeWeek": 31817,
-    "timeMonth": 19334,
-    "timeYear": 8071,
+    "uptimeYear": "90.90%",
+    "time": 8101,
+    "timeDay": 54907,
+    "timeWeek": 32333,
+    "timeMonth": 19969,
+    "timeYear": 8101,
     "dailyMinutesDown": {
       "2026-04-18": 102,
       "2026-04-19": 326,
@@ -588,7 +588,7 @@
       "2026-07-21": 996,
       "2026-07-22": 586,
       "2026-07-23": 197,
-      "2026-07-26": 1
+      "2026-07-26": 61
     }
   },
   {
@@ -597,11 +597,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/marathon.mnu.edu.mv.ico",
     "slug": "marathon",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "55.56%",
-    "uptimeWeek": "93.65%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.63%",
+    "uptimeDay": "51.29%",
+    "uptimeWeek": "93.04%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "99.63%",
     "time": 2811,
     "timeDay": 1285,
     "timeWeek": 2041,
@@ -614,7 +614,7 @@
       "2025-10-27": 72,
       "2025-12-12": 26,
       "2025-12-13": 17,
-      "2026-07-26": 640
+      "2026-07-26": 701
     }
   }
 ]
