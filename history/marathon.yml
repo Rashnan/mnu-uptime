@@ -1,7 +1,7 @@
 url: https://marathon.mnu.edu.mv
-status: up
-code: 200
-responseTime: 2185
-lastUpdated: 2026-07-25T00:07:29.604Z
+status: down
+code: 500
+responseTime: 1285
+lastUpdated: 2026-07-26T11:02:05.054Z
 startTime: 2025-10-22T20:51:41.298Z
 generator: Upptime <https://github.com/upptime/upptime>
